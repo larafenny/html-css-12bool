@@ -1,15 +1,12 @@
 .container{
     max-width: 1170px;
     margin: 0 auto;
-    background-color: blue;
     height: 200px;
 }
 
 .row{
     display: flex;
     flex-wrap: wrap;
-    background-color: red;
-    height: 50px;
 }
 
 .col-1{
