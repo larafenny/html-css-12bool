@@ -4,6 +4,10 @@
     padding: 0px;
 }
 
+.upper-section{
+    padding-bottom: 20px;
+}
+
 .cell-style{
     background-color: cornflowerblue;
     border: 1px solid white;
