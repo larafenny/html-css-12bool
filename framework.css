@@ -8,6 +8,8 @@
 .row{
     display: flex;
     flex-wrap: wrap;
+    background-color: red;
+    height: 50px;
 }
 
 .col-1{
