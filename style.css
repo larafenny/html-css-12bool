@@ -8,6 +8,11 @@
     padding-bottom: 20px;
 }
 
+.bottom-section{
+    padding-bottom: 10px;
+}
+
+
 .cell-style{
     background-color: cornflowerblue;
     border: 1px solid white;
